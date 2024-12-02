@@ -1,4 +1,4 @@
-# 3ds-devkitpro-tutorial
+# 3ds-devkitpro-tutorial(under construction, it's 11:40 pm right now, I'll finish it later)
 A tutorial on how to develop (very basic) 3ds homebrew apps with devkitPro on Windows, macOS, and Linux.
 
 # What classifies as "Linux":
