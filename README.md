@@ -15,5 +15,5 @@ When i say Linux, I do not (nescesarily) mean full blown KDE or Ubuntu through a
 Because, devkitPro is a Linux thing. Considering Linux is a relatively unpopular operating system, macOS and Windows users(the vast majority of you reading this guide I assume), windows needs a little help, via minGW. Install that and come back here.(or enable WSL, as long as it works)
 
 # Actually getting started
-
-Ok, so 
+Ok, so, open up your terminal(or minGW if you're on windows)
+ 
